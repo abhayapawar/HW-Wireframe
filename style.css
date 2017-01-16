@@ -1,0 +1,16 @@
+#fixed{
+	background-color:#eee;
+	position: fixed;
+	padding:20px;
+	margin: 20px;
+	text-align: center;
+	left:0;
+	top:0;
+}
+
+#relative{
+	background-color:#eee;
+}
+#absolute{
+	background-color:#999;
+}
